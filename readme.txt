@@ -41,3 +41,4 @@ To demonstrate:
 - Clean, readable, reliable Python work  
 
 This repo is built for hiring managers and Fiverr/Upwork clients who want proof of skill.
+
